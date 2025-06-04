@@ -1,18 +1,23 @@
-# 🎯 Number Guessing Game
+# Number Guessing Game 🎯
 
-A fun Python CLI game where you guess a number between 1 and 100. Includes difficulty levels, hints, and high score tracking.
+A simple and interactive Python CLI game where the player guesses a number between 1 and 100.
 
-## 💡 Features
+The game includes:
+- Difficulty levels (Easy, Medium, Hard)
+- Hint system when you're stuck
+- High score tracking for each difficulty level
 
-- 🎮 Easy, Medium, Hard difficulty levels
-- 🔄 Play again feature
-- ✅ Input validation
+---
 
-## 🚀 Getting Started
+## 🔗 Project Page URL
 
-### Run the Game
+[https://github.com/AITitanArchitect/number-guessing-game](https://github.com/AITitanArchitect/number-guessing-game)
 
-Make sure Python is installed:
+---
 
-```bash
-python game.py
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AITitanArchitect/number-guessing-game
+   cd number-guessing-game
